@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP.GoogleApis.Common", "Apps\CSHARP.GoogleApis.Common\CSHARP.GoogleApis.Common.csproj", "{A5EA9EBC-2658-45DA-8492-901466724E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP.GoogleApis.GoogleDrive", "Apps\CSHARP.GoogleApis.GoogleDrive\CSHARP.GoogleApis.GoogleDrive.csproj", "{D1CD8CBB-2102-4AB5-AE1C-AC508B912563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP.GoogleApis.GoogleSheet", "Apps\CSHARP.GoogleApis.GoogleSheet\CSHARP.GoogleApis.GoogleSheet.csproj", "{D810C002-8AC0-43A6-8C8E-FC2D899AB6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGoogleDriveViaConsole", "UnitTests\UnitTestGoogleDriveViaConsole\UnitTestGoogleDriveViaConsole.csproj", "{A73C6E37-4E01-4B8A-8E54-6AC3080AF726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGoogleSheetViaConsole", "UnitTests\UnitTestGoogleSheetViaConsole\UnitTestGoogleSheetViaConsole.csproj", "{3DACF517-126B-4268-8281-2BF8553EF8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EA9EBC-2658-45DA-8492-901466724E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EA9EBC-2658-45DA-8492-901466724E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EA9EBC-2658-45DA-8492-901466724E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EA9EBC-2658-45DA-8492-901466724E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CD8CBB-2102-4AB5-AE1C-AC508B912563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CD8CBB-2102-4AB5-AE1C-AC508B912563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CD8CBB-2102-4AB5-AE1C-AC508B912563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CD8CBB-2102-4AB5-AE1C-AC508B912563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D810C002-8AC0-43A6-8C8E-FC2D899AB6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D810C002-8AC0-43A6-8C8E-FC2D899AB6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D810C002-8AC0-43A6-8C8E-FC2D899AB6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D810C002-8AC0-43A6-8C8E-FC2D899AB6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73C6E37-4E01-4B8A-8E54-6AC3080AF726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73C6E37-4E01-4B8A-8E54-6AC3080AF726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73C6E37-4E01-4B8A-8E54-6AC3080AF726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73C6E37-4E01-4B8A-8E54-6AC3080AF726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DACF517-126B-4268-8281-2BF8553EF8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DACF517-126B-4268-8281-2BF8553EF8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DACF517-126B-4268-8281-2BF8553EF8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DACF517-126B-4268-8281-2BF8553EF8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA7840B-605F-4105-9B3F-685E92CE96FE}
+	EndGlobalSection
+EndGlobal

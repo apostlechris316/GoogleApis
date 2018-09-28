@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "light-sunlight-188919",
+  "private_key_id": "cccfe6868e7e150951d972001fd2b3db936bd42c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7uiW4CfHLII6j\n2vzqLF1awhjgv+jBCT2kYiiFugg4fmlHO/FDL+F8PpUrXkPAgWxxtpw+97C9jO7N\nwfjL1BHunMeKZlXjOIv8LS6De5flGuLYdbzx/wNoQ0tM7hNYzawVi74GJLRbu1ri\n2/aevD1FpDwxo34blxyAIfaLmRxyMciefuqvnZsRhXvRYVNPorXnLHaB6Av+rdGl\n1wYaZU1qhW8Juld6K3oA+/YzIA1n22CcGhPLf52B17holUjY6/zYfWxZN4x4eN3d\nxwzxaEDcr7pkneTthh9TYzbQnFOCJKTX+8HKyPgHYPwe4xNZi9eYkd7f/an94cmg\npOCqym8zAgMBAAECggEABPcsBz2wGRzf2QKyXOlWgM+Qg+VfnTeG22HDS6I7lG73\njuxNeeb60mP/YxnHtgBWY32ejWXU1Xa0XFnsoEuYO9UGzCjfzbZRsZZqXAz5XBSF\neo9Gs6n4p5ncFIlZlqg+DIXZPWVcJe8DPOvvjoxRHJX3B6MY81bgaJ09XbzrjTOr\nTdxb0G0JtNX2tva/h/3FDNmxOfCw/xWk+XsxJ6gFXp7JdXeJkU0DWluARkNOul03\nl8eDvzzCq6p0j4D61VsdGEAmPIu4o22a1CFhRvnjmo2g6DsD4lxdKdlGlNWncUai\nj/vbGbDMgROi1DPA9QppzUW4w9cQ7qjEnM62AGJoQQKBgQDiady2ZhBvwUjJgVje\nB690SqhYxv89f0dslIgiJeXp4lgVTBohLNqDsbZN7j+fcYUIgiv5YX0WRC+q96B5\nHexZBgMqs/H46yfr8GAFT6OGb3TVCypbq8e7KLUYL89Aa53GX40XVQYV6jhgJpu3\nipn3U/MpHybA01BZrgAp4a4W8wKBgQDUQh9DA1ozYWqd8Zku828UCPMoo4O69qEW\njuJAywxFFuKKNypcIapbyJx4+RsPIKe4nATEk263UipFatJaRtuKOFbjsYkJvww8\nniRwzMrFb+2EtwRRThyuHz58PWEB0es9e9dIiuTk8CuAv0NGIUtkaZwevkeyWCvL\nbFsy0jTWwQKBgGmLvgcNZ0YhjWPaN2oxnPoSP447Hgs2BT65swhwMFCqYjNzaY7j\nkO3pbzm/Acu7KLABtqwnZR93I92IWDd92orZgaprfjZysQaM5MY1DN8DoCwca1+W\noaI+5MTkrLG0OTWbn3MsAI1AxY0VEmwqYYHpkaYuzmr/VyqnMY5UlUo/AoGBAMFO\n7vWzCeUdZWIu9BmEbrdKZ1mtgX02vAK1Ym0r/yK08uB52URLDMHGdGrgQ7qFPPqu\nbNEyjHS8ie7qmGTLf4nkQY3g1DNiIRzb0chBWrJxe1mQ7Ie3ofsaTWgM5lon+hvm\nu2w/wrKV4KjCh9xI2ka6wApntRhBoLEFIBGqy6CBAoGAIo6liOU2KO5EEkqeqC9j\nofv4iEwV+paRgZyxN4qKGSTjJKl5AcMzL4nkeE4P8SmUdS5aZLlRBwMN8JLzA2BG\nOmMkZmPCiJkMdHWw0wSXTmRgsEoS2TK8jr6H6NU97RJCmGWtmwb1mqJDKpp8tC8T\nUDEOXiCXit+v1ZiGmKHntw0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "readwatchcreate@light-sunlight-188919.iam.gserviceaccount.com",
+  "client_id": "109812721405745275545",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/readwatchcreate%40light-sunlight-188919.iam.gserviceaccount.com"
+}
